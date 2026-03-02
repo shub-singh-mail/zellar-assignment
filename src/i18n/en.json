@@ -1,0 +1,8 @@
+{
+    "home": {
+        "userTypes": "User Types",
+        "admin": "Admin",
+        "manager": "Manager",
+        "adminUsers": "Admin Users"
+    }
+}
